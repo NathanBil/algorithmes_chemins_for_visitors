@@ -1,5 +1,8 @@
 # algorithmes_chemins_for_visitors
 
+
+Project creation year: 2021-2022
+
 -- Version français --
 
 Ce projet a pour but de créer les classes censées représentées différents types de graphes.
